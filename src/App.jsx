@@ -15,6 +15,8 @@ const App = () => {
 
   }
 
+  
+
   return (
     <div>
       <CustomInput
@@ -37,6 +39,7 @@ const App = () => {
       />
       {Registartion.Name}
       {Registartion.Email}
+      
     </div>
   )
 }

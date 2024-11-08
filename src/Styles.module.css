@@ -1,0 +1,27 @@
+/* .........................................Registration page style..................................... */
+
+.body{
+    width: 100%;
+    height: 100vh;
+    background-color:rgb(45, 81, 140);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+     background-color: azure;
+     padding: 20px;
+}
+.row{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+   border: none;
+}
+.row input{
+    width: 100%;
+    height: 100%;
+    border: none; 
+    border-bottom: 2px solid black;
+}
